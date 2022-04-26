@@ -6,4 +6,4 @@ Type using " , " between the intervals you choose and press enter!
 
 Mehmet Winner!
 
-https://eneselmal.github.io/Random-Choice-Picker/
+https://enesburakelmal.github.io/Random-Choice-Picker/
